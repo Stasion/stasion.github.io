@@ -1,0 +1,7 @@
+#header nav ul li a {
+    font-weight: 300;
+    color: #e44c65 !important;
+}
+#header nav ul li a.special {
+    color: white !important;
+}
