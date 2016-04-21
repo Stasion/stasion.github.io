@@ -5,3 +5,17 @@
 #header nav ul li a.special {
     color: white !important;
 }
+
+#program-kerja a {
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+
+#program-kerja .row a p {
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
